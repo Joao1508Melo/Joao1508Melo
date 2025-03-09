@@ -1,16 +1,28 @@
-## Hi there 👋
+# Olá! Eu sou João Victor
 
-<!--
-**Joao1508Melo/Joao1508Melo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Formação
+Sou formado em Análise e Desenvolvimento de Sistemas pela FATEC Zona Sul e atualmente estou cursando Ciência da Computação na Cruzeiro do Sul, onde estou no 3º semestre. Tenho paixão por tecnologia e desenvolvimento de software.
 
-Here are some ideas to get you started:
+### 💻 Habilidades
+- **Linguagens de Programação**: Java, Python, JavaScript
+- **Desenvolvimento Web**: HTML, CSS, Node.js, React
+- **Banco de Dados**: MySQL
+- **Ferramentas**: Git, Visual Studio Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Projetos
+Estou trabalhando em diversos projetos que envolvem desenvolvimento web e aplicativos. Confira meus repositórios!
+
+### 🌱 Aprendendo
+Atualmente, estou me aprofundando em:
+- Desenvolvimento de APIs
+- Estruturas de Dados e Algoritmos
+- Frameworks como Angular e Vue.js
+
+### 📫 Como me encontrar
+- **Email**: [Envie um email para mim](mailto:joaovictormelo1508@gmail.com)
+- **LinkedIn**: [Meu LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-victor-melo-065608136/)
+
+Sinta-se à vontade para entrar em contato ou colaborar em projetos!
+
+### 🤝 Contribuições
+Estou aberto a colaborações e novas oportunidades. Se você está interessado em trabalhar em um projeto ou discutir ideias, sinta-se à vontade para me contatar!
