@@ -26,3 +26,5 @@ Sinta-se à vontade para entrar em contato ou colaborar em projetos!
 
 ### 🤝 Contribuições
 Estou aberto a colaborações e novas oportunidades. Se você está interessado em trabalhar em um projeto ou discutir ideias, sinta-se à vontade para me contatar!
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Joao1508Melo&show_icons=true&theme=dark)
