@@ -20,7 +20,7 @@ Atualmente, estou me aprofundando em:
 
 ### 📫 Como me encontrar
 - **Email**: [Envie um email para mim](mailto:joaovictormelo1508@gmail.com)
-- **LinkedIn**: [Meu LinkedIn](https://www.linkedin.com/in/joão-victor-melo-065608136)
+- **Linkedin**: [Meu Linkedin](https://www.linkedin.com/in/joão-victor-melo-065608136)
 
 
 Sinta-se à vontade para entrar em contato ou colaborar em projetos!
